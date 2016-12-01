@@ -1,0 +1,5 @@
+.DS_Store
+Persistence.xcworkspace/
+Pods
+Persistence.xcodeproj/xcuserdata
+Persistence.xcodeproj/project.xcworkspace
